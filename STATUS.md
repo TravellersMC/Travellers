@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/TravellersModpack/Travellers/main/Banner.png)
+![](https://raw.githubusercontent.com/TravellersModpack/Travellers/main/Status_Banner.png)
 
 ------------
 Travellers is still in alpha phase, so there are still many mods and various refinements missing in it.
