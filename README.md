@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/IntM4rco/Travellers/main/Banner.png)
+![](https://raw.githubusercontent.com/TravellersModpack/Travellers/main/Banner.png)
 ------------
 #### Travellers makes your adventures even more amazing, write your own story now!
 ### 🔥 | Why Travellers?
