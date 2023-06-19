@@ -19,7 +19,7 @@ As a modpack for the public, Travellers allows any person to make a suggestion o
 - No, Forge does not allow full power, and many mods are only for Fabric.
 
 **I found a problem in the modpack, where can I report it?**
-- If you found any issues, you can report them here on Github.
+- If you found any issues, you can report them here on [Github](https://github.com/TravellersModpack/Travellers/issues).
 
 **I have a suggestion about the modpack?**
-- You can tell it on Github.
+- You can tell it on [Github](https://github.com/TravellersModpack/Travellers/issues).
