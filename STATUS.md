@@ -6,7 +6,7 @@ In any case, you can give your opinion [**HERE**](https://github.com/TravellersM
 
 #### Last available version:
 - **Modrinth:** Alpha 0.0.1
-- **Github:** Alpha 0.0.1
+- **Github:** Alpha 0.0.2
 
 ------------
 Last modified on: `2023-06-20 00:28:53 Tuesday`
