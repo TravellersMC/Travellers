@@ -35,4 +35,12 @@
 - [Sodium](https://modrinth.com/mod/sodium) by [jellysquid3](https://modrinth.com/user/jellysquid3)
 - [Cloth Config](https://modrinth.com/mod/cloth-config) by [shedaniel](https://modrinth.com/user/shedaniel)
 - [Mod Menu](https://modrinth.com/mod/modmenu) by [Prospector](https://modrinth.com/user/Prospector)
-
+- [Better Combat]([https://modrinth.com/mod/better-combat) by [ZsoltMonlnarrr](https://modrinth.com/user/ZsoltMolnarrr)
+- [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) by [Schauweg](https://modrinth.com/user/Schauweg)
+- [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk) by [dlee13](https://modrinth.com/user/dlee13)
+- [YACL](https://modrinth.com/mod/yacl) by [isxander](https://modrinth.com/user/isxander)
+- [e4mc](https://modrinth.com/mod/e4mc) by [vgskye](https://modrinth.com/user/vgskye)
+- [Jade](https://modrinth.com/mod/jade) by [Snownee](https://modrinth.com/user/Snownee)
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra) by [FlashyReese](https://modrinth.com/user/FlashyReese)
+- [playerAnimator](https://modrinth.com/mod/playeranimator) by [KosmX](https://modrinth.com/user/KosmX)
+- [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair) by [Crendgrim](https://modrinth.com/user/Crendgrim)
