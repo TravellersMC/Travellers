@@ -5,6 +5,7 @@
 
 ###### If you are a developer of one of these mods and link does not work or reinderizes to a different page you can report it to me [HERE](https://github.com/TravellersModpack/Travellers/issues).
 #### List of all mods installed or used in any version of the modpack:
+(All mods are in alphabetical order)
 - [3DSkinLayers](https://modrinth.com/mod/3dskinlayers) by [tr7zw](https://modrinth.com/user/tr7zw)
 - [Better Combat](https://modrinth.com/mod/better-combat) by [ZsoltMonlnarrr](https://modrinth.com/user/ZsoltMolnarrr)
 - [Better Mount Hud](https://modrinth.com/mod/better-mount-hud) by [Lortseam](https://modrinth.com/user/Lortseam)
