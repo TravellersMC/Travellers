@@ -35,7 +35,7 @@
 - [Sodium](https://modrinth.com/mod/sodium) by [jellysquid3](https://modrinth.com/user/jellysquid3)
 - [Cloth Config](https://modrinth.com/mod/cloth-config) by [shedaniel](https://modrinth.com/user/shedaniel)
 - [Mod Menu](https://modrinth.com/mod/modmenu) by [Prospector](https://modrinth.com/user/Prospector)
-- [Better Combat]([https://modrinth.com/mod/better-combat) by [ZsoltMonlnarrr](https://modrinth.com/user/ZsoltMolnarrr)
+- [Better Combat](https://modrinth.com/mod/better-combat) by [ZsoltMonlnarrr](https://modrinth.com/user/ZsoltMolnarrr)
 - [Smooth Swapping](https://modrinth.com/mod/smooth-swapping) by [Schauweg](https://modrinth.com/user/Schauweg)
 - [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk) by [dlee13](https://modrinth.com/user/dlee13)
 - [YACL](https://modrinth.com/mod/yacl) by [isxander](https://modrinth.com/user/isxander)
