@@ -9,4 +9,4 @@ In any case, you can give your opinion [**HERE**](https://github.com/TravellersM
 - **Github:** Alpha 0.0.3
 
 ------------
-Last modified on: `2023-06-22 01:49:00 Thursday`
+Last modified on: `2023-06-22 01:49:00 Friday`
