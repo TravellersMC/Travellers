@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/TravellersModpack/Travellers/main/Banner.png)
 
 ------------
-[![Modrinth](https://img.shields.io/badge/Modrinth-16181c?logo=modrinth&logoColor=00AF5C)](https://modrinth.com/modpack/travellers) [![Issues - Travellers](https://img.shields.io/github/issues/TravellersModpack/Travellers)](https://github.com/TravellersModpack/Travellers/issues)
+[![Modrinth](https://img.shields.io/badge/Modrinth-16181c?logo=modrinth&logoColor=00AF5C)](https://modrinth.com/modpack/travellers) [![Issues - Travellers](https://img.shields.io/github/issues/TravellersModpack/Travellers)](https://github.com/TravellersModpack/Travellers/issues) [![ModsList](https://img.shields.io/badge/ModsList-023e7d?logo=github)](https://github.com/TravellersModpack/Travellers/blob/main/MODSLIST.md)
 #### Travellers makes your adventures even more amazing, write your own story now!
 ### 🔥 | Why Travellers?
 Travellers is not just any modpack, Travellers will make your experience in Minecraft unique: new mobs to take on, new challenges that get harder and harder, new structures, new biomes and many other changes that will drive you crazy with desire for more and more adventures.
@@ -24,11 +24,11 @@ As a modpack for the public, Travellers allows any person to make a suggestion o
 - The complete list of installed mods can be found at [**HERE**](https://github.com/TravellersModpack/Travellers/blob/main/MODSLIST.md).
 
 **I found a problem in the modpack, where can I report it?**
-- If you found any issues, you can report them [**HERE**](https://github.com/TravellersModpack/Travellers/issues) on Github.
+- If you found any issues, you can report them [**HERE**](https://github.com/TravellersModpack/Travellers/issues) on GitHub.
 
 **I have a question about the modpack?**
-- You can ask all your questions [**HERE**](https://github.com/TravellersModpack/Travellers/issues) on Github (Discord not done yet).
+- You can ask all your questions [**HERE**](https://github.com/TravellersModpack/Travellers/issues) on GitHub (Discord not done yet).
 
 **I have a suggestion about the modpack?**
-- You can tell it [**HERE**](https://github.com/TravellersModpack/Travellers/issues) on Github.
+- You can tell it [**HERE**](https://github.com/TravellersModpack/Travellers/issues) on GitHub.
 ***
