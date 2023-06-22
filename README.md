@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/TravellersModpack/Travellers/main/Banner.png)
 
 ------------
-[![Modrinth](https://img.shields.io/badge/Modrinth-16181c?logo=modrinth&logoColor=00AF5C)](https://modrinth.com/modpack/travellers)
+[![Modrinth](https://img.shields.io/badge/Modrinth-16181c?logo=modrinth&logoColor=00AF5C)](https://modrinth.com/modpack/travellers) [![Issues - Travellers](https://img.shields.io/github/issues/TravellersModpack/Travellers)](https://github.com/TravellersModpack/Travellers/issues)
 #### Travellers makes your adventures even more amazing, write your own story now!
 ### 🔥 | Why Travellers?
 Travellers is not just any modpack, Travellers will make your experience in Minecraft unique: new mobs to take on, new challenges that get harder and harder, new structures, new biomes and many other changes that will drive you crazy with desire for more and more adventures.
