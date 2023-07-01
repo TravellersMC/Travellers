@@ -10,7 +10,7 @@ Before anything is changed in the modpack, a careful evaluation of the overall s
 ### 💡 | Updated as soon as possible
 Travellers are always updated to the latest version with a maximum delay of two weeks.
 ### 👥 | Your opinions are for truly important.
-As a modpack for the public, Travellers allows any person to make a suggestion or express an opinion, which is always heard and appreciated.
+Your opinion is crucial for the improvement of this modpack. Any opinion, of any kind, is always welcome!
 
 ------------
 ### Frequently asked questions (FAQ)
