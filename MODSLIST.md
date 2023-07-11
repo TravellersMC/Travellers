@@ -43,6 +43,7 @@
 - [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) by [AMereBagatelle](https://modrinth.com/user/AMereBagatelle)
 - [Fabricshot](https://modrinth.com/mod/fabrishot) by [ramidzkh](https://modrinth.com/user/ramidzkh)
 - [Fallingleaves](https://modrinth.com/mod/fallingleaves) by [randommcsomethin](https://modrinth.com/user/randommcsomethin)
+- [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass) by [robotkoer ](https://modrinth.com/user/robotkoer)
 - [FastQuit](https://modrinth.com/mod/fastquit) by [KingContaria](https://modrinth.com/user/KingContaria)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) by [malte0811](https://modrinth.com/user/malte0811)
 - [Forge Config Api Port](https://modrinth.com/mod/forge-config-api-port) by [Fuzs](https://modrinth.com/user/Fuzs)
