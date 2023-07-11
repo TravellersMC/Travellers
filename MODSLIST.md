@@ -4,6 +4,7 @@
 ### Travellers uses various mods from many developers, here is a list that in case you need you can download them individually by supporting the developers directly. 
 
 ###### If you are a developer of one of these mods and link does not work or reinderizes to a different page you can report it to me [HERE](https://github.com/TravellersModpack/Travellers/issues).
+###### At the end of the list you will also find resource packs/shaders:
 #### List of all mods installed or used in any version of the modpack:
 (All mods are in alphabetical order)
 - [3DSkinLayers](https://modrinth.com/mod/3dskinlayers) by [tr7zw](https://modrinth.com/user/tr7zw)
