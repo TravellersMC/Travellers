@@ -48,6 +48,7 @@
 - [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk) by [dlee13](https://modrinth.com/user/dlee13)
 - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) by [RaphiMC](https://modrinth.com/user/RaphiMC)
 - [Immersive Structures](https://modrinth.com/mod/immersive-structures) by [ChoiceTheorem](https://modrinth.com/user/ChoiceTheorem)
+- [Indium](https://modrinth.com/mod/indium) by [comp500](https://modrinth.com/user/comp500)
 - [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) by [Blackd](https://modrinth.com/user/blackd)
 - [Iris](https://modrinth.com/mod/iris) by [coderbot](https://modrinth.com/user/coderbot)
 - [Jade](https://modrinth.com/mod/jade) by [Snownee](https://modrinth.com/user/Snownee)
