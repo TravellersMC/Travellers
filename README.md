@@ -21,7 +21,7 @@ Your opinion is crucial for the improvement of this modpack. Any opinion, of any
 - No, Forge does not allow full power, and many mods are only for Fabric.
 
 **Where can I find the complete list of installed mods?**
-- The complete list of installed mods can be found at [**HERE**](https://github.com/TravellersModpack/Travellers/blob/main/MODSLIST.md).
+- The complete list of installed mods can be found at [**HERE**](https://github.com/TravellersModpack/Travellers/blob/main/MODSLIST.md)(Even resource packs and shaders).
 
 **I found a problem in the modpack, where can I report it?**
 - If you found any issues, you can report them [**HERE**](https://github.com/TravellersModpack/Travellers/issues) on GitHub.
