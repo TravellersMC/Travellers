@@ -17,8 +17,8 @@ Your opinion is crucial for the improvement of this modpack. Any opinion, of any
 **Will Traveller be available for older versions of Minecraft?**
 - There are currently no plans to bring Travellers to older versions.
 
-**Will Travellers ever be adapted to Forge?**
-- No, Forge does not allow full power, and many mods are only for Fabric.
+**Will the modpack ever be available on Forge?**
+- Not for now.
 
 **Where can I find the complete list of installed mods?**
 - The complete list of installed mods (+ Resource packs/Shaders) can be found at [**HERE**](https://github.com/TravellersModpack/Travellers/blob/main/MODSLIST.md)
