@@ -5,7 +5,7 @@ Travellers is still in alpha phase, so there are still many mods and various ref
 In any case, you can give your opinion [**HERE**](https://github.com/TravellersModpack/Travellers/issues)!
 
 #### Last available version:
-- **Modrinth:** Alpha 0.0.5
+- **Modrinth:** Alpha 0.0.5.1
 - **Github:** Alpha 0.0.5
 
 ------------
