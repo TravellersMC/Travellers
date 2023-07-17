@@ -18,6 +18,7 @@
 - [BetterF3](https://modrinth.com/mod/betterf3) by [treyruffy](https://modrinth.com/user/treyruffy)
 - [BetterNether](https://modrinth.com/mod/betternether) by [quiqueck](https://modrinth.com/user/quiqueck)
 - [C2me](https://modrinth.com/mod/c2me-fabric) by [ishland](https://modrinth.com/user/ishland)
+- [Capes](https://modrinth.com/mod/capes) by [caelthecolher](https://modrinth.com/user/caelthecolher)
 - [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api) by [Pyrofab](https://modrinth.com/user/Pyrofab)
 - [CIT Resewn](https://modrinth.com/mod/cit-resewn) by [shsupercm](https://modrinth.com/user/shsupercm)
 - [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) by [kerudion](https://modrinth.com/user/kerudion)
