@@ -1,7 +1,7 @@
-![](https://raw.githubusercontent.com/TravellersModpack/Travellers/main/Banner.png)
+![](https://raw.githubusercontent.com/TravellersMC/Travellers/main/Banner.png)
 
 ------------
-[![Modrinth](https://img.shields.io/badge/Modrinth-16181c?logo=modrinth&logoColor=00AF5C)](https://modrinth.com/modpack/travellers) [![ModpackStatus](https://img.shields.io/badge/ModpackStatus-087f5b?logo=icloud&logoColor=FFFFFF)](https://github.com/TravellersModpack/Travellers/blob/main/STATUS.md) [![ModsList](https://img.shields.io/badge/ModsList-1971c2?logo=openlayers)](https://github.com/TravellersModpack/Travellers/blob/main/MODSLIST.md) [![Issues - Travellers](https://img.shields.io/github/issues/TravellersModpack/Travellers)](https://github.com/TravellersModpack/Travellers/issues) [![Performance impact - Medium](https://img.shields.io/badge/Performance_impact-Medium-yellowgreen?logo=stackblitz)](https://github.com/TravellersModpack/Travellers/blob/main/PERFORMANCE.md)
+[![Modrinth](https://img.shields.io/badge/Modrinth-16181c?logo=modrinth&logoColor=00AF5C)](https://modrinth.com/modpack/travellers) [![ModpackStatus](https://img.shields.io/badge/ModpackStatus-087f5b?logo=icloud&logoColor=FFFFFF)](https://github.com/TravellersMC/Travellers/blob/main/STATUS.md) [![ModsList](https://img.shields.io/badge/ModsList-1971c2?logo=openlayers)](https://github.com/TravellersMC/Travellers/blob/main/MODSLIST.md) [![Issues - Travellers](https://img.shields.io/github/issues/TravellersMC/Travellers)](https://github.com/TravellersMC/Travellers/issues) [![Performance impact - Medium](https://img.shields.io/badge/Performance_impact-Medium-yellowgreen?logo=stackblitz)](https://github.com/TravellersMC/Travellers/blob/main/PERFORMANCE.md)
 #### Travellers makes your adventures even more amazing, write your own story now!
 ### 🔥 | Why Travellers?
 Travellers is not just any modpack, Travellers will make your experience in Minecraft unique: new mobs to take on, new challenges that get harder and harder, new structures, new biomes and many other changes that will drive you crazy with desire for more and more adventures.
@@ -21,14 +21,14 @@ Your opinion is crucial for the improvement of this modpack. Any opinion, of any
 - Not for now.
 
 **Where can I find the complete list of installed mods?**
-- The complete list of installed mods (+ Resource packs/Shaders) can be found at [**HERE**](https://github.com/TravellersModpack/Travellers/blob/main/MODSLIST.md)
+- The complete list of installed mods (+ Resource packs/Shaders) can be found at [**HERE**](https://github.com/TravellersMC/Travellers/blob/main/MODSLIST.md)
 
 **I found a problem in the modpack, where can I report it?**
-- If you found any issues, you can report them [**HERE**](https://github.com/TravellersModpack/Travellers/issues) on GitHub.
+- If you found any issues, you can report them [**HERE**](https://github.com/TravellersMC/Travellers/issues) on GitHub.
 
 **I have a question about the modpack?**
-- You can ask all your questions [**HERE**](https://github.com/TravellersModpack/Travellers/issues) on GitHub (Discord not done yet).
+- You can ask all your questions [**HERE**](https://github.com/TravellersMC/Travellers/issues) on GitHub (Discord not done yet).
 
 **I have a suggestion about the modpack?**
-- You can tell it [**HERE**](https://github.com/TravellersModpack/Travellers/issues) on GitHub.
+- You can tell it [**HERE**](https://github.com/TravellersMC/Travellers/issues) on GitHub.
 ***
