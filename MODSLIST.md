@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/TravellersMC/Travellers/main/Modslist_Banner.png)
+![](https://raw.githubusercontent.com/TravellersMC/Travellers/main/Banner/Modlist_Banner.png)
 
 ------------
 ### Travellers uses various mods from many developers, here is a list that in case you need you can download them individually by supporting the developers directly. 
