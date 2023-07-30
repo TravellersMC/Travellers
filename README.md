@@ -31,6 +31,4 @@ Your opinion is crucial for the improvement of this modpack. Any opinion, of any
 
 **I have a suggestion about the modpack?**
 - You can tell it [**HERE**](https://github.com/TravellersMCTravellers/issues) on GitHub.
-***
-
-#### ✨ I thank [**Exuvium**](https://modrinth.com/resourcepack/exuviums-better-gold) for the gold block face applied as a background in the logo ✨
+------------
