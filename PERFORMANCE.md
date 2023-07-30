@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/TravellersMC/Travellers/main/Performance_Banner.png)
+![](https://raw.githubusercontent.com/TravellersMC/Travellers/main/Banner/Performance_Banner.png)
 
 ------------
 ### Travellers is a modpack available for all existing PC configurations so the values below are approximate and may vary from the fps you will get in the game.
