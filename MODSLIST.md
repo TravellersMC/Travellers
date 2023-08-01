@@ -61,7 +61,6 @@
 - [Fallingleaves](https://modrinth.com/mod/fallingleaves) by [randommcsomethin](https://modrinth.com/user/randommcsomethin)
 - [FancyMenu](https://modrinth.com/mod/fancymenu) by [keksuccino](https://modrinth.com/user/keksuccino)
 - [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass) by [robotkoer ](https://modrinth.com/user/robotkoer)
-- [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass) by [robotkoer](https://modrinth.com/user/robotkoer)
 - [Fast Paintings](https://modrinth.com/mod/fast-paintings) by [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar)
 - [FastAnim](https://modrinth.com/mod/fastanim) by [Lunade_](https://modrinth.com/user/Lunade_)
 - [FastQuit](https://modrinth.com/mod/fastquit) by [KingContaria](https://modrinth.com/user/KingContaria)
