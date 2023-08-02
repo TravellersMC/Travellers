@@ -6,7 +6,7 @@
 ### 🔥 | Why Travellers?
 Travellers is not just any modpack, Travellers will make your experience in Minecraft unique: new mobs to take on, new challenges that get harder and harder, new structures, new biomes and many other changes that will drive you crazy with desire for more and more adventures.
 ### ⚖️ | Stable and reliable, always!
-Before anything is changed in the modpack, a careful evaluation of the overall stability is made, always trying to please everyone.
+With each update of Travellers, a careful evaluation of the overall stability is made, always trying to please everyone. Each update is structured on wise and thoughtful decisions, you will never see a bunch of useless mods just for the purpose of increasing the size of the modpack.
 ### 💡 | Updated as soon as possible
 Travellers are always updated to the latest version with a maximum delay of two weeks.
 ### 👥 | Your opinions are for truly important.
