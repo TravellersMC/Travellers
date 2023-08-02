@@ -26,6 +26,7 @@
 - [Chunks Fade In](https://modrinth.com/mod/chunks-fade-in) by [kerudion](https://modrinth.com/user/kerudion)
 - [Cinderscapes](https://modrinth.com/mod/cinderscapes) by [Prospector](https://modrinth.com/user/Prospector)
 - [Clear Despawn](https://modrinth.com/mod/cleardespawn) by [strikerrocker](https://modrinth.com/user/strikerrocker)
+- [Clean F3](https://modrinth.com/mod/clean-f3) by [tyrannus00](https://modrinth.com/user/tyrannus00)
 - [ClickThrough](https://modrinth.com/mod/clickthrough) by [Giselbaer](https://modrinth.com/user/Giselbaer)
 - [Cloth Config](https://modrinth.com/mod/cloth-config) by [shedaniel](https://modrinth.com/user/shedaniel)
 - [Collective](https://modrinth.com/mod/collective) by [Serilum](https://modrinth.com/user/Serilum)
