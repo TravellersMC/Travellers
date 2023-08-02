@@ -4,7 +4,7 @@
 [![Modrinth](https://img.shields.io/badge/Modrinth-16181c?logo=modrinth&logoColor=00AF5C)](https://modrinth.com/modpack/travellers) [![MPStatus](https://img.shields.io/badge/MPStatus-d62839?logo=task&logoColor=f5f3f4)](https://github.com/TravellersMC/Travellers/blob/main/STATUS.md) [![ModsList](https://img.shields.io/badge/ModsList-1971c2?logo=openlayers)](https://github.com/TravellersMC/Travellers/blob/main/MODSLIST.md) [![Issues - Travellers](https://img.shields.io/github/issues/TravellersMC/Travellers)](https://github.com/TravellersMC/Travellers/issues) [![Performance impact - Medium](https://img.shields.io/badge/Performance_impact-Medium-yellowgreen?logo=stackblitz)](https://github.com/TravellersMC/Travellers/blob/main/PERFORMANCE.md)
 #### Travellers makes your adventures even more amazing, write your own story now!
 ### 🔥 | Why Travellers?
-Travellers is not just any modpack, Travellers will make your experience in Minecraft unique: new mobs to take on, new challenges that get harder and harder, new structures, new biomes and many other changes that will drive you crazy with desire for more and more adventures.
+Travellers is not just any modpack, Travellers will make your Minecraft experience unique: new mobs to face, new and increasingly difficult challenges, new structures, new biomes, and many other changes just waiting to be discovered.
 ### ⚖️ | Stable and reliable, always!
 With each update of Travellers, a careful evaluation of the overall stability is made, always trying to please everyone. Each update is structured on wise and thoughtful decisions, you will never see a bunch of useless mods just for the purpose of increasing the size of the modpack.
 ### 💡 | Updated as soon as possible
