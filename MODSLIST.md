@@ -94,7 +94,7 @@
 - [Model Gap Fix](https://modrinth.com/mod/modelfix) by [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar)
 - [ModernFix](https://modrinth.com/mod/modernfix) by [embeddedt](https://modrinth.com/user/embeddedt)
 - [Moonlight Lib](https://modrinth.com/mod/moonlight) by [MehVahdJukaar](https://modrinth.com/user/MehVahdJukaar)
-- [More Mob Variants x Fresh Animations](https://modrinth.com/resourcepack/more-mob-variants-fresh-animations-addon) by [nyuppo](https://modrinth.com/user/nyuppo)
+- [More Mob Variants x FA](https://modrinth.com/resourcepack/more-mob-variants-fresh-animations-addon) by [nyuppo](https://modrinth.com/user/nyuppo)
 - [More Mob Variants](https://modrinth.com/mod/more-mob-variants) by [nyuppo](https://modrinth.com/user/nyuppo)
 - [MoreCulling](https://modrinth.com/mod/moreculling) by [fxmorin](https://modrinth.com/user/fxmorin)
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) by [YaLTeR](https://modrinth.com/user/YaLTeR)
