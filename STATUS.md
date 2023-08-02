@@ -4,8 +4,7 @@
 
 **In any case, you can give your opinion [**HERE**](https://github.com/TravellersMC/Travellers/issues)!**
 #### Last available version:
-- **Modrinth:** Alpha 0.0.6
-- **Github:** Alpha 0.0.5
+- **Modrinth:** Alpha 0.0.6.1
 ###### Click [HERE](https://github.com/TravellersMC/Travellers/projects) to see what I am working on for the next version of the modpack.
 ------------
 Last modified on: `2023-08-02 01:25 Wednesday`
