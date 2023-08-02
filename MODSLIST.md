@@ -129,6 +129,7 @@
 - [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) by [Tiviacz1337](https://modrinth.com/user/Tiviacz1337)
 - [Traverse](https://modrinth.com/mod/traverse) by [Prospector](https://modrinth.com/user/Prospector)
 - [Trinkets](https://modrinth.com/mod/trinkets) by [Emi](https://modrinth.com/user/Emi)
+- [Unique Dark](https://modrinth.com/resourcepack/unique-dark) by [AmongstReality](https://modrinth.com/user/AmongstReality)
 - [Very Many Players](https://modrinth.com/mod/vmp-fabric) by [ishland](https://modrinth.com/user/ishland)
 - [Village Spawn Point](https://modrinth.com/mod/village-spawn-point) by [Serilum](https://modrinth.com/user/Serilum)
 - [Visuality](https://modrinth.com/mod/visuality) by [PinkGoosik](https://modrinth.com/user/PinkGoosik)
