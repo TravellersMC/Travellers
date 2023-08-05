@@ -1,5 +1,6 @@
-![](https://raw.githubusercontent.com/TravellersMC/Travellers/main/Banner/Status_Banner.png)
-***
+![Status_Banner](https://github.com/TravellersMC/Travellers/assets/124934175/c70a85b0-a1d5-464a-ab14-23fee3edba14)
+
+‎------------‎
 ### Travellers is still in alpha phase, so there are still many mods and various refinements missing in it.
 
 **In any case, you can give your opinion [**HERE**](https://github.com/TravellersMC/Travellers/issues)!**
