@@ -30,5 +30,5 @@ Your opinion is crucial for the improvement of this modpack. Any opinion, of any
 - You can ask all your questions on [**Discord**](https://discord.gg/yYpvc8eqez) or [**GitHub**](https://github.com/TravellersMC/Travellers/issues).
 
 **I have a suggestion about the modpack?**
-- You can tell it [**HERE**](https://github.com/TravellersMCTravellers/issues) on GitHub.
+- You can tell it [**HERE**](https://github.com/TravellersMC/Travellers/issues) on GitHub.
 ------------
